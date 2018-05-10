@@ -1,0 +1,12 @@
+﻿  Display.cpp
+e:\my documents\nyu\courses\fre 6883 financial computing\project_final\project\exceldriver\excelimports.cpp(52): warning C4192: automatically excluding 'IFont' while importing type library 'C:\Program Files\Microsoft Office\root\Office16\EXCEL.EXE'
+e:\my documents\nyu\courses\fre 6883 financial computing\project_final\project\exceldriver\excelimports.cpp(52): warning C4192: automatically excluding 'IPicture' while importing type library 'C:\Program Files\Microsoft Office\root\Office16\EXCEL.EXE'
+  ExcelImports.cpp
+  GetData.cpp
+  Group.cpp
+e:\my documents\nyu\courses\fre 6883 financial computing\project_final\project\group.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Stock.cpp
+  VectorOperator.cpp
+  main.cpp
+  Generating Code...
+  Project.vcxproj -> E:\My Documents\NYU\Courses\FRE 6883 Financial Computing\Project_Final\Debug\Project.exe
